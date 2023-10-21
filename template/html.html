@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PRED</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="../static/js.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/css.css">
+</head>
+<body>
+    <div id="header">
+        <h1>GOOGLE STOCK MARKET PREDICTION</h1>
+    </div>
+    <br><br>
+    <label>TOTAL DE DIAS QUE VOCÊ DESEJA PREVER</label>
+    <br>
+    <label>(APÓS A DATA 18/10/2023)</label>
+    <br><br>
+    <input type="number" id="num_dates" required>
+    <br><br>
+    <button type="btn" onclick="BtnClick()">GERAR PREVISÃO</button>
+    <br><br>
+    <div id="predictions"></div>
+    <div id="graphDiv"></div>
+</body>
+</html>
