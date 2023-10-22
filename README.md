@@ -19,6 +19,7 @@ LSTM isn't a good model to predict a lot of days ahead of a stock market, but th
 
 Medium: https://medium.com/@guilhermegobbo04/constru%C3%A7%C3%A3o-de-aplica%C3%A7%C3%A3o-web-para-modelos-de-ml-flask-html-css-javascript-20185ef4da9b
 
+![image](https://github.com/guilhermegobbo/GOOG-STOCK-PRED/assets/136920721/bcc7c808-5c41-4c9e-a154-6d98d2e965cb)
 
 I hope you learn a lot with these codes! Enjoy!
 
