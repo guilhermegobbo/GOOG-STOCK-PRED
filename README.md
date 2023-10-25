@@ -1,17 +1,13 @@
 # STOCK-MARKET-PRED
 Prediction of GOOG Stock Market with LSTM and Web Application with Flask.
 
-Used languages:
+Technologies used:
 
-- JavaScript
-
-- HTML
-
-- CSS
+- TensorFlow
 
 - Flask
 
-- TensorFlow
+- JavaScript, HTML & CSS
 
 
 LSTM isn't a good model to predict a lot of days ahead of a stock market, but the intention of this project was doing an article on medium where I could explain how to simple create web applications.
