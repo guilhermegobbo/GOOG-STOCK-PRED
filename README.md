@@ -10,7 +10,7 @@ Technologies used:
 - JavaScript, HTML & CSS
 
 
-LSTM isn't a good algorithm to predict a lot of days ahead of a stock market, but the intention of this project was doing an article on medium where I could explain how to simple create web applications.
+LSTM isn't a good algorithm to predict a lot of days ahead of a stock market, but the intention of this project was doing an article on medium where I could explain how to simple build web applications.
 
 
 Medium: https://medium.com/@guilhermegobbo04/constru%C3%A7%C3%A3o-de-aplica%C3%A7%C3%A3o-web-para-modelos-de-ml-flask-html-css-javascript-20185ef4da9b
